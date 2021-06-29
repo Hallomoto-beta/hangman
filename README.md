@@ -1,5 +1,5 @@
 
-##HANGMAN => le pommier
+## HANGMAN => le pommier
 
 This repository is dedicated to our project of showcasing a playgame (hangman/lepommier) realized during our training at BeCode.
 
