@@ -5,7 +5,7 @@ This repository is dedicated to our project of showcasing a playgame (hangman/le
 
 ## GitHub Page
 
-[Le pendu pommier](html link)
+[Le pommier]( https://hallomoto-beta.github.io/hangman/)
 
 ## Instructions
 
